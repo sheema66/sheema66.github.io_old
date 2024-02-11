@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 
+title: Creation of Corpora & Analysis of Semantic Distance between Sentences Translation in Various Languages
 description: 
-img: 
+img: assets/img/semantic-diff.jpg
 importance: 2
 category: work
 giscus_comments: true

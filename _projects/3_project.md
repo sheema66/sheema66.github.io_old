@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 
+title: Mutlingual Neural Machine Translation System for Pakistani Languages
 description: 
-img:
+img: assets/img/MNMT.png
 redirect: https://unsplash.com
 importance: 3
 category: work
