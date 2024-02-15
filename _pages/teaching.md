@@ -7,9 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-<div class="container">
+<div class="container text-justify">
     <!-- <div class="row justify-content-center"> -->
-        <div class="col-md-10 text-justify">
+        <!-- <div class="col-md-10 "> -->
             <p>Welcome to our Speech & Language Processing (S&LP) Group, where the fascinating world of language meets the cutting-edge advancements in Artificial Intelligence. In this dynamic learning environment, we delve into the intricacies of human language and its interaction with technology. Our lab is dedicated to imparting knowledge and skills in a range of NLP subjects, empowering students to decode language patterns, develop language models, and create AI-driven applications that understand, generate, and manipulate text in meaningful ways.</p>
 
             <p>List of Research Areas:</p>
@@ -25,6 +25,6 @@ nav_order: 5
             </ul>
 
             <p>Join us on a journey of exploration, innovation, and collaboration as we delve into the realm of Natural Language Processing. Our lab equips you with the skills to unlock the potential of language-driven AI and contribute to the advancement of this transformative field.</p>
-        </div>
-    </div>
+        <!-- </div> -->
+    <!-- </div> -->
 </div>
