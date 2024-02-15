@@ -9,7 +9,7 @@ category: work
 
 <div class="container">
     <div class="row justify-content-center">
-        <div class="col-md-10">
+        <div class="col-md-10 text-justify">
             <h2>Introduction</h2>
             <p>In recent years, neural machine translation (NMT) has made significant strides, particularly in bridging language barriers for high-resource languages. However, low-resource languages often face challenges in NMT due to limited parallel corpora for training. To address this issue, zero-shot NMT systems have emerged as a promising approach. These systems enable translation between language pairs without explicit parallel data, offering a potential solution for low-resource languages.</p>
             <h2>Zero-Shot NMT Framework</h2>
