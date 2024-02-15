@@ -1,76 +1,29 @@
 ---
 layout: page
 title: Zero-Shot Neural Machine Translation System For Low-Resource Languages
-description: 
+description: A comprehensive overview of zero-shot neural machine translation systems for low-resource languages.
 img: assets/img/zero-shot.png
 importance: 7
 category: work
 ---
 
-Introduction:
-In recent years, neural machine translation (NMT) has made significant strides, particularly in bridging language barriers for high-resource languages. However, low-resource languages often face challenges in NMT due to limited parallel corpora for training. To address this issue, zero-shot NMT systems have emerged as a promising approach. These systems enable translation between language pairs without explicit parallel data, offering a potential solution for low-resource languages.
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-10">
+            <h2>Introduction</h2>
+            <p>In recent years, neural machine translation (NMT) has made significant strides, particularly in bridging language barriers for high-resource languages. However, low-resource languages often face challenges in NMT due to limited parallel corpora for training. To address this issue, zero-shot NMT systems have emerged as a promising approach. These systems enable translation between language pairs without explicit parallel data, offering a potential solution for low-resource languages.</p>
+            <h2>Zero-Shot NMT Framework</h2>
+            <p>Zero-shot NMT relies on multilingual models trained on diverse language pairs, allowing them to generalize across languages. The core idea is to leverage shared representations across languages to facilitate translation even in the absence of direct training data for a particular language pair. By learning to map sentences from multiple languages into a shared embedding space, zero-shot models can infer translations between language pairs not encountered during training.</p>
+            <h2>Training Strategy</h2>
+            <p>Training a zero-shot NMT model involves pretraining on a large multilingual corpus, followed by fine-tuning on language-specific data. During pretraining, the model learns to encode and decode text from various languages, capturing universal linguistic features. Fine-tuning then adapts the model to the target language through additional training on available parallel data, enhancing translation quality for low-resource languages.</p>
+            <h2>Challenges and Solutions</h2>
+            <p>Zero-shot NMT faces several challenges, including data sparsity, domain adaptation, and language divergence. Limited parallel data for low-resource languages can hinder translation quality, requiring innovative techniques such as data augmentation, transfer learning, and unsupervised pretraining. Domain adaptation techniques help the model generalize to specific domains within low-resource languages, while addressing language divergence involves mitigating differences in syntax, vocabulary, and linguistic structure.</p>
+            <h2>Evaluation and Performance</h2>
+            <p>Evaluation of zero-shot NMT systems typically involves assessing translation quality using metrics such as BLEU, METEOR, and TER. Performance varies across language pairs and resource levels, with translation quality often lower for low-resource languages compared to high-resource counterparts. Nonetheless, zero-shot NMT systems demonstrate promising results, showcasing their potential for expanding access to translation services for underrepresented languages.</p>
+            <h2>Future Directions</h2>
+            <p>Future research in zero-shot NMT for low-resource languages should focus on improving translation quality, scalability, and resource efficiency. Techniques such as semi-supervised learning, active learning, and zero-resource translation hold promise for enhancing model performance with limited data. Additionally, efforts to build larger and more diverse multilingual corpora can further empower zero-shot NMT systems to bridge language barriers effectively.</p>
+            <h2>Conclusion</h2>
+            <p>Zero-shot NMT systems offer a promising solution for facilitating translation between low-resource languages, leveraging shared representations and multilingual training to overcome data scarcity. While challenges remain, ongoing research and innovation hold the potential to significantly improve translation quality and accessibility for diverse linguistic communities, promoting inclusivity and communication across language boundaries.</p>
+        </div>
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
