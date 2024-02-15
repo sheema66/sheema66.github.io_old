@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: List of courses and research areas we explore at S&LPG.
 nav: true
 nav_order: 5
