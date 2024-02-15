@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Context-Aware Financial Sentiment Analysis
+title: Context - Aware Financial Sentiment Analysis
 description: 
 img: assets/img/sentiment.png
 importance: 5
