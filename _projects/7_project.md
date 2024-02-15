@@ -14,6 +14,11 @@ category: work
             <p>In recent years, neural machine translation (NMT) has made significant strides, particularly in bridging language barriers for high-resource languages. However, low-resource languages often face challenges in NMT due to limited parallel corpora for training. To address this issue, zero-shot NMT systems have emerged as a promising approach. These systems enable translation between language pairs without explicit parallel data, offering a potential solution for low-resource languages.</p>
             <h2>Zero-Shot NMT Framework</h2>
             <p>Zero-shot NMT relies on multilingual models trained on diverse language pairs, allowing them to generalize across languages. The core idea is to leverage shared representations across languages to facilitate translation even in the absence of direct training data for a particular language pair. By learning to map sentences from multiple languages into a shared embedding space, zero-shot models can infer translations between language pairs not encountered during training.</p>
+            <div class="row">
+                <div class="col-sm mt-3 mt-md-0">
+             {% include figure.html path="assets/img/zero-shot.png" title="example image" class="img-fluid rounded z-depth-1" %}
+                </div>
+            </div>  
             <h2>Training Strategy</h2>
             <p>Training a zero-shot NMT model involves pretraining on a large multilingual corpus, followed by fine-tuning on language-specific data. During pretraining, the model learns to encode and decode text from various languages, capturing universal linguistic features. Fine-tuning then adapts the model to the target language through additional training on available parallel data, enhancing translation quality for low-resource languages.</p>
             <h2>Challenges and Solutions</h2>
