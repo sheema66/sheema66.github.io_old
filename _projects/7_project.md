@@ -7,12 +7,8 @@ importance: 7
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
+Introduction:
+In recent years, neural machine translation (NMT) has made significant strides, particularly in bridging language barriers for high-resource languages. However, low-resource languages often face challenges in NMT due to limited parallel corpora for training. To address this issue, zero-shot NMT systems have emerged as a promising approach. These systems enable translation between language pairs without explicit parallel data, offering a potential solution for low-resource languages.
     ---
     layout: page
     title: project
