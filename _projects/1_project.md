@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Context-aware NMT using Selected Context
-description: # An offline context selection technique
+description: An offline context selection technique
 img: assets/img/selected-context.jpg
 importance: 1
 category: work

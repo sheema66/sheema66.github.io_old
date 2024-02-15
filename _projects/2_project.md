@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Creation of Corpora & Analysis of Semantic Distance between Sentences Translation in Various Languages
-description: 
+description: A comprehensive overview of semantic distance
 img: assets/img/semantic-diff.jpg
 importance: 2
 category: work

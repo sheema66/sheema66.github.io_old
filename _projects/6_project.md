@@ -1,7 +1,7 @@
 ---
 layout: page
 title: An End-to-End Speech Translation System
-description: 
+description: An overview of Speech Translation System designed for low resource languages
 img: assets/img/speech-speech.png
 importance: 6
 category: work
