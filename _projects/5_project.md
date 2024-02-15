@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Context - Aware Financial Sentiment Analysis
-description: The details overview of Financial domain Sentiment Analysis
+description: The detailed overview of Financial Domain Sentiment Analysis
 img: assets/img/sentiment.png
 importance: 5
 category: work

@@ -7,17 +7,24 @@ nav: true
 nav_order: 5
 ---
 
-Welcome to our Speech & Language Processing (S&LP) Group, where the fascinating world of language meets the cutting-edge advancements in Artificial Intelligence. In this dynamic learning environment, we delve into the intricacies of human language and its interaction with technology. Our lab is dedicated to imparting knowledge and skills in a range of NLP subjects, empowering students to decode language patterns, develop language models, and create AI-driven applications that understand, generate, and manipulate text in meaningful ways.
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-10 text-justify">
+            <p>Welcome to our Speech & Language Processing (S&LP) Group, where the fascinating world of language meets the cutting-edge advancements in Artificial Intelligence. In this dynamic learning environment, we delve into the intricacies of human language and its interaction with technology. Our lab is dedicated to imparting knowledge and skills in a range of NLP subjects, empowering students to decode language patterns, develop language models, and create AI-driven applications that understand, generate, and manipulate text in meaningful ways.</p>
 
-List of Research Areas:
+            <p>List of Research Areas:</p>
+            <ul>
+                <li>Introduction to Natural Language Processing</li>
+                <li>Text Preprocessing and Tokenization</li>
+                <li>Language Modeling and Grammatical Analysis</li>
+                <li>Sentiment Analysis and Opinion Mining</li>
+                <li>Named Entity Recognition and Information Extraction</li>
+                <li>Text Classification and Topic Modeling</li>
+                <li>Machine Translation and Language Generation</li>
+                <li>Question Answering Systems</li>
+            </ul>
 
-- Introduction to Natural Language Processing
-- Text Preprocessing and Tokenization
-- Language Modeling and Grammatical Analysis
-- Sentiment Analysis and Opinion Mining
-- Named Entity Recognition and Information Extraction
-- Text Classification and Topic Modeling
-- Machine Translation and Language Generation
-- Question Answering Systems
-
-Join us on a journey of exploration, innovation, and collaboration as we delve into the realm of Natural Language Processing. Our lab equips you with the skills to unlock the potential of language-driven AI and contribute to the advancement of this transformative field.
+            <p>Join us on a journey of exploration, innovation, and collaboration as we delve into the realm of Natural Language Processing. Our lab equips you with the skills to unlock the potential of language-driven AI and contribute to the advancement of this transformative field.</p>
+        </div>
+    </div>
+</div>
