@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Research Projects
 permalink: /projects/
 description: Projects by S&LP Group.
 nav: true
