@@ -4,7 +4,7 @@ title: Graduate Research
 permalink: /projects/
 description: Projects by S&LP Group.
 nav: true
-nav_order: 2
+nav_order: 3
 display_categories: [work, fun]
 horizontal: true
 ---
