@@ -3,7 +3,7 @@ layout: page
 title: Mutlingual Neural Machine Translation System for Pakistani Languages
 description: A system discription of Pakistani regional language's NMT
 img: assets/img/MNMT.png
-redirect: https://unsplash.com
+# redirect: https://unsplash.com
 importance: 3
 category: work
 ---
