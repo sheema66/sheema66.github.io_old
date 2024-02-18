@@ -9,3 +9,7 @@ display_categories: [work, fun]
 horizontal: true
 ---
 
+<!-- pages/projects.md -->
+<div class="projects text-justify">
+<h1>Undergraduate Projects will Dispaly here!</h1>
+</div>

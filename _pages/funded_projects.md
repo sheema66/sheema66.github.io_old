@@ -9,4 +9,7 @@ display_categories: [work, fun]
 horizontal: true
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/funded projects.md -->
+<div class="projects text-justify">
+<h1>Funded Projects will Dispaly here!</h1>
+</div>
