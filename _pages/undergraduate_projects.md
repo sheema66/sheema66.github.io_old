@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Undergraduate Projects
-permalink: /projects/
+permalink: /undergraduate_projects/
 description: Projects by S&LP Group.
 nav: true
 nav_order: 4

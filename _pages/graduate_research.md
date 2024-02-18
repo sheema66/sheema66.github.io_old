@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Graduate Research
-permalink: /projects/
+permalink: /graduate_research/
 description: Projects by S&LP Group.
 nav: true
 nav_order: 3
