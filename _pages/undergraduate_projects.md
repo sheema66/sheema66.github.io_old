@@ -11,5 +11,5 @@ horizontal: true
 
 <!-- pages/projects.md -->
 <div class="projects text-justify">
-<h1>Undergraduate Projects will Dispaly here!</h1>
+<p>Undergraduate Projects will Dispaly here!</p>
 </div>

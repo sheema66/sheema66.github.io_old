@@ -11,5 +11,5 @@ horizontal: true
 
 <!-- pages/funded projects.md -->
 <div class="projects text-justify">
-<h1>Funded Projects will Dispaly here!</h1>
+<p>Funded Projects will Dispaly here!</p>
 </div>
