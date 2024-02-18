@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Undergraduate Projects
-permalink: /undergraduate_projects/
+title: Funded Projects
+permalink: /funded_projects/
 description: Projects by S&LP Group.
 nav: true
-nav_order: 4
+nav_order: 2
 display_categories: [work, fun]
 horizontal: true
 ---
 
+<!-- pages/projects.md -->
